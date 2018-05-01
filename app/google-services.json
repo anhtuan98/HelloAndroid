@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "464256461183",
+    "firebase_url": "https://helloworld-a1e0b.firebaseio.com",
+    "project_id": "helloworld-a1e0b",
+    "storage_bucket": "helloworld-a1e0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464256461183:android:3fcdb55f25a3dbfe",
+        "android_client_info": {
+          "package_name": "com.example.natuan.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464256461183-k62ggnv4g1gcigaah8qv0a980pcnc33h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzlK-zAg7Oy6puxNQbouU98EhHBX-bDZk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
